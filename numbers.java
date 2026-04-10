@@ -4,7 +4,11 @@ Public class login
    {
        int i =0;
        
-       for (i=0;i<==35;i++     
+<<<<<<< HEAD
+       for (i=0;i<==20;i++     
+=======
+       for (i=0;i<==20;i++     
+>>>>>>> dev-10.2.1
    
 
 
